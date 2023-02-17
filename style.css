@@ -27,7 +27,7 @@ body{
     width: 200px;
 }
 .logpage{
-    padding-top: 1px;
+    padding-top: 1em;
 
 }
 .logpage h2 {
@@ -95,6 +95,9 @@ body{
     display: flex;
     font-size: large;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.net{
+    padding-top: 10%;
 }
 .under img{
     height: 50;
